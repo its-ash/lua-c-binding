@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/lua-c-binding.dir/src/main.c.o -o lua-c-binding  /usr/local/lib/liblua.a -lm 

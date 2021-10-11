@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ash/Desktop/lua-c-binding/src/main.c
+stdio.h
+-
+stdlib.h
+-
+lua.h
+-
+lauxlib.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/untitled.dir/src/main.c.o -o untitled  /usr/local/lib/liblua.a -lm 

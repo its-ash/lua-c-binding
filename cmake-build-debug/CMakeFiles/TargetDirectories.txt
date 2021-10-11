@@ -1,0 +1,3 @@
+/home/ash/Desktop/lua-c-binding/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ash/Desktop/lua-c-binding/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ash/Desktop/lua-c-binding/cmake-build-debug/CMakeFiles/lua-c-binding.dir
